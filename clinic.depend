@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1725387934 source:d:\fr1\new folder\clinic\main.c
+	<stdio.h>
+	<stdlib.h>
+	"clinic.h"
+
+1725385973 d:\fr1\new folder\clinic\clinic.h
+
+1725386583 source:d:\fr1\new folder\clinic\clinic.c
+	"clinic.h"
+	<stdio.h>
+	<stdlib.h>
+
